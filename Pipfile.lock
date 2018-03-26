@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0a46e56c0b8f8c1e08487e4c0793b942006622a0c235d9435f289df128e07e1a"
+            "sha256": "205d2bcd7ddec4757c464a93d953f41af430603c7a80b1059f316b43feaab0d5"
         },
         "requires": {},
         "sources": [
@@ -26,6 +26,9 @@
         },
         "Send2Trash": {
             "version": "==1.5.0"
+        },
+        "big_O": {
+            "version": "==0.8.1"
         },
         "bleach": {
             "version": "==2.1.3"
