@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "cd9a9bf2975fcf59249213773683ffa0e301f8b6337c661fe5081614bd90b15c"
+            "sha256": "0a46e56c0b8f8c1e08487e4c0793b942006622a0c235d9435f289df128e07e1a"
         },
         "requires": {},
         "sources": [
@@ -12,6 +12,9 @@
         ]
     },
     "default": {
+        "Cython": {
+            "version": "==0.28.1"
+        },
         "Jinja2": {
             "version": "==2.10"
         },
@@ -77,6 +80,9 @@
         },
         "notebook": {
             "version": "==5.4.1"
+        },
+        "numpy": {
+            "version": "==1.14.2"
         },
         "pandocfilters": {
             "version": "==1.4.2"
